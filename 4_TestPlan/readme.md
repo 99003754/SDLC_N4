@@ -46,3 +46,13 @@
 | TI 7    | meter to kilometer -25      | Invalid         |               |              |
 | TI 8    | Celsius to Fahrenheit -25   | -13             |               |              |
 | TI 9    | gram to kilogram -5900      | Invalid         |               |              |
+
+# Arithmetic Operations
+
+| Test Id | Input                | Expected Output | Actual Output |   Status   |
+|---------|----------------------|-----------------|---------------|------------|
+| T1      | Addition 2,3         | 5               |               |            |
+| T2      | Subtraction 5,1      | 4               |               |            |
+| T3      | Multiplication 2,5   | 10              |               |            |
+| T4      | Division 18,6        | 3               |               |            |
+| T5      | Addition -2,5        | 3               |               |            |
