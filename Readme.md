@@ -1,5 +1,8 @@
 # SDLC Activity Based Learning
 
+# Calculator_N4
+    This Calculator helps in calculating basic calculation, conversion of dimensions, trigonometric functions and binary conversions
+
 Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
@@ -17,10 +20,12 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+| PS Number | Name              | Feature                                                                          |
+|-----------|-------------------|----------------------------------------------------------------------------------|
+| 99003751  | Shrinidhi V Katti | Trigonomoteric Operation(Sin, Cos, Tan, Cot, Cos, Co-sec)                        |
+| 99003753  | Akshansh Mishra   | Arithmetic Operation(Addition, Subtraction, Multiplication, Division, Remainder) |
+| 99003754  | Rishab Ostawal    | Binary Conversion(Decimal, Hexadecimal)                                          |
+| 99003755  | Rohan Roy         | Dimension Conversion(Length, Mass, Temperature)                                  | 
 
 ## Challenges Faced and How Was It Overcome
 
